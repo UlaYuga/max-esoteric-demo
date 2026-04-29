@@ -186,6 +186,7 @@
     }
 
     if (window.IS_DEMO_MODE) {
+      if (typeof onSuccess === 'function') onSuccess()
       return
     }
 

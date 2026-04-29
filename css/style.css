@@ -740,7 +740,6 @@ textarea.input-field{
   .loader span{animation:none;}
 }
 
-.demo-mode [id$="-btn-paid"],
 .demo-mode #comp-result-block small,
 .demo-mode #tarot-result-block small,
 .demo-mode #num-result-block small,
